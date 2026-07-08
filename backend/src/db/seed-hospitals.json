@@ -1,0 +1,2284 @@
+[
+  {
+    "name": "Aadya Hospital Speciality Surgical Center",
+    "address": "Scout Camp Road, Near Railway Station, Doddaballapur",
+    "lat": 13.2800136,
+    "lng": 77.5546065,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Aarogya Hastha Hospitals Private Limited",
+    "address": "Site No 2, No 2816/2, Sy 87, Kasavanahalli Main Road, Off Sarjapura Road",
+    "lat": 12.904178,
+    "lng": 77.6759703,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Abhaya Hospital",
+    "address": "17, Dr. MH Mari Gowda Road, (Hosur Road) Opp. Park Area, Wilson Garden, Bangalore",
+    "lat": 12.9495909,
+    "lng": 77.5906853,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Abhishek Nethradhama",
+    "address": "Yelahanka Satellite, Town 3rd B Cross Road, ICICI Bank Road",
+    "lat": 13.100079,
+    "lng": 77.5837258,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Adhventha Hospital",
+    "address": "No 31, 45Th Cross, Sangam Circle, Opposite Metro Pillar No 16, Jayanagar 8Th Block",
+    "lat": 12.9177546,
+    "lng": 77.5772003,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Akash Hospital",
+    "address": "Near International Airport, Prasanna Halli Main Road, Devanahalli",
+    "lat": 13.2437197,
+    "lng": 77.7172413,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Akshara Eye Hospital",
+    "address": "S.V Arcade, Devarachikkanahalli Road, IIM Post, Bilekahalli",
+    "lat": 12.8990831,
+    "lng": 77.6053653,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Akshaya Nethralaya",
+    "address": "227/A, Vidyagiri Layout, Next To Axis Bank, Nagarabhavi Circle",
+    "lat": 12.9573128,
+    "lng": 77.5191711,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Akshaya Nursing Home",
+    "address": "No. 33/34, Balaji Avenue, Attur Main Road, Yelahanka New Town",
+    "lat": 13.1046831,
+    "lng": 77.5664489,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Altius Hospitals",
+    "address": "#511, Outer Ring Road, 4Th Block, Hbr Layout",
+    "lat": 13.0344841,
+    "lng": 77.6291807,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Altius Hospitals Pvt Ltd",
+    "address": "6/63, 59th Cross, 4th Block, Rajajinagar, Opp. MEI Polytechnic",
+    "lat": 12.984953,
+    "lng": 77.556917,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Altor Hospitals",
+    "address": "# 23 & 23A, Near T C Palya Signal, Kr Puram",
+    "lat": 13.0190631,
+    "lng": 77.7037131,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Amrutha Super Speciality Hospital",
+    "address": "#39 & 42, Beside Shell Petrol Bank, Bh Road, Nelamangala Taluk",
+    "lat": 13.0922836,
+    "lng": 77.4076637,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ananya Hospital Pvt Ltd",
+    "address": "389/44, 19th Main, 1st Block, Rajajinagar",
+    "lat": 12.999754,
+    "lng": 77.550445,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Anupamaa Hospital",
+    "address": "No. 377, 13th A Main Road, 80 Feet Road, A Sector, Yelahanka New Town",
+    "lat": 13.093597,
+    "lng": 77.589547,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Ayurvaid Hospital",
+    "address": "No 230, Amarjyothi Layout, Domlur Extn",
+    "lat": 12.9545388,
+    "lng": 77.6400098,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Cradle & Childerns Hospital",
+    "address": "25/5, 1St Main Road, E Block Subramanya Nagar, 2nd Stage, Rajajinagar",
+    "lat": 13.007826,
+    "lng": 77.5550761,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Cradle-Unit Of Apollo Specialty Hospitals Pvt Ltd",
+    "address": "101/209 & 210, Itpl Main Road, Kundalahalli, Brookefield",
+    "lat": 12.9674358,
+    "lng": 77.7164834,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "address": "154/11, Opp. LIM, Banneraghata Road",
+    "lat": 12.894524,
+    "lng": 77.6012434,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Hospitals - Seshadripuram",
+    "address": "No.1, Old No. 28, Plat Form Road, sheshadripuram",
+    "lat": 12.9907668,
+    "lng": 77.5714954,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Koramangla Cradle Limited ( The Cradle )",
+    "address": "No 58, 5th Cross, 18th main, 6th block, Koramangla",
+    "lat": 12.9367615,
+    "lng": 77.6204735,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Koramangla Cradle Ltd (The Cradle)",
+    "address": "No. 486, New No. 25, 46th Cross Road, 5th block Jayanagar",
+    "lat": 12.9169023,
+    "lng": 77.5829312,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Speciality Hospital - Jayanagar",
+    "address": "New No. 2, Old No. 21/2, 14th Cross, 3rd Block, Jayanagar",
+    "lat": 12.9363903,
+    "lng": 77.5843905,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apollo Spectra Hospitals",
+    "address": "Opus, # 143, 1st Cross, 5th Block, Koramangala",
+    "lat": 12.9282781,
+    "lng": 77.6297193,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apoorva Hospitals And Diagnostics Centre",
+    "address": "548/1, CMH Road, Indira Nagar, 1St Stage, Opposite To Motherhood Hospital",
+    "lat": 12.9783557,
+    "lng": 77.6445217,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Apple Hospital",
+    "address": "No 32, Maruthi Complex, MS nagar bus stop, Banaswadi Main Road Bangalore 560033",
+    "lat": 13.0084907,
+    "lng": 77.6422869,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Arka Anugraha Hospital",
+    "address": "2 15Th Cross, 6Th Phase, Jp Nagar",
+    "lat": 12.9061513,
+    "lng": 77.5952677,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Asha Hospitals And Research Centre",
+    "address": "No.10, 23rd Cross Rd, Rashtrakavi, Kuvempu Nagar, Btm 2nd Stage, Btm Layout",
+    "lat": 12.9051075,
+    "lng": 77.6121057,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ashmitha Multispeciality Hospital",
+    "address": "Paduka Mandir Road, Bhcs Layout, Uttarahali, Opp. Brigade 7 Garden",
+    "lat": 12.9056803,
+    "lng": 77.5511158,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ashwini Multi Speciality Hospital",
+    "address": "Tg Extn, 2Nd Main Road, Kammavari Pete, Bangalore Rural, Hoskote",
+    "lat": 13.0713318,
+    "lng": 77.7834061,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Aster CMI Hospital",
+    "address": "43/2, Intl.Airport Road, Sahakarnagar, Hebbal",
+    "lat": 13.0353557,
+    "lng": 77.5987874,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Aster Hospital",
+    "address": "Plot 2,3&4, Sadaramangala Industrial Area, Opp To Itpl Main Gate, Whitefield",
+    "lat": 12.9921125,
+    "lng": 77.7159268,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Aster RV Hospital",
+    "address": "CA-37, 24Th Main Rd, Iti Layout, 1St Phase, J. P. Nagar",
+    "lat": 12.9117277,
+    "lng": 77.5851338,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Astra Super Speciality Hospital",
+    "address": "21/7, Vasathaputa Main Road, Konankunte Cross",
+    "lat": 12.8908517,
+    "lng": 77.5632808,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Atharva Ortho Care",
+    "address": "20-62/1, Kambla, Surathkal",
+    "lat": 12.9951009,
+    "lng": 74.8094458,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Athreya Hospital",
+    "address": "No 6/2B, Opp Suryanagara Phase-1, Chandapura",
+    "lat": 12.7955653,
+    "lng": 77.6984357,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Atreum Speciality Hospital",
+    "address": "#916D, Ideal Homes Township, 80 Feet Road, Rr Nagar",
+    "lat": 12.9151335,
+    "lng": 77.5170778,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Aveksha Hospitals",
+    "address": "122, Varadarajaswamy Layout, Singapura Main Road, Near M S Palya",
+    "lat": 13.0708646,
+    "lng": 77.5413995,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "AV Hospital",
+    "address": "No. 9, Patalamma Temple Street, Basavanagudi",
+    "lat": 12.9390085,
+    "lng": 77.5785211,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ayaansh Hospital",
+    "address": "No 510, Cmh Road ,Indiranagr",
+    "lat": 12.9782225,
+    "lng": 77.6436185,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bangalore Baptist Hospital",
+    "address": "Bellary Road, Hebbal",
+    "lat": 13.0354185,
+    "lng": 77.5887683,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bangalore Nethralaya",
+    "address": "946, 21St Main, Banashankari 2nd Stage, Near BDA Comples",
+    "lat": 12.92656,
+    "lng": 77.5649418,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Basavangudi Medical Centre",
+    "address": "84/1, R.V.RoadJaya NagarBasavangudi",
+    "lat": 12.9422253,
+    "lng": 77.5801653,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Belaku Eye Hospital",
+    "address": "769, 1st Cross, Ring Road, Kengeri Upanagar",
+    "lat": 12.9230523,
+    "lng": 77.4846519,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Belle Vues Cambridge Hospital",
+    "address": "18/17, Cambridge Road, Ulsoor",
+    "lat": 12.9716461,
+    "lng": 77.6273271,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Best Hospital",
+    "address": "Beside Railway Bridge, Near To Kms Kalyana Mantapa Hosur Main Road, Chandapura",
+    "lat": 12.8017291,
+    "lng": 77.7074699,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "BGS GIMS Hospital",
+    "address": "#67, Uttarahalli Main Road Kengeri",
+    "lat": 12.9098174,
+    "lng": 77.4922016,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "BGS Gleneagles Global Hospital",
+    "address": "5/5, Richmond Road, Bengaluru",
+    "lat": 12.9654332,
+    "lng": 77.5999301,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "BGS GLOBAL HOSPITAL (N10768/AWSP/I)",
+    "address": "Vivekananda Nagar, Bangalore-Mysore Road",
+    "lat": 12.9370937,
+    "lng": 77.5207693,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bgs Mch Hospital",
+    "address": "Vignatham South Campus, Nagarur Dasanapura, Nagarur",
+    "lat": 13.0862202,
+    "lng": 77.4271665,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bhagwan Mahaveer Jain Hospital",
+    "address": "6th cross, 3rd main, Avalahalli Extension , Girinagar , BSk 3rd stage",
+    "lat": 12.9552078,
+    "lng": 77.526229,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bharathi Nursing Home",
+    "address": "42/77, South End Road, Basavanagudi",
+    "lat": 12.9369977,
+    "lng": 77.5771785,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Bharathy Hospital",
+    "address": "4, Nagarbhavi Main Road Prasanthnagar Nagarbhavi",
+    "lat": 12.9761493,
+    "lng": 77.5326739,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Blue Bliss Hospital",
+    "address": "No. 65, 1st Main Sheshadripuram",
+    "lat": 12.9822865,
+    "lng": 77.5574643,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Brains Super Speciality Hospital",
+    "address": "#192, T.Mariyappa Road Lalbagh Siddapura, Jayanagar 1st Block",
+    "lat": 12.9435127,
+    "lng": 77.5847545,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Brindhavvan Areion Hospital",
+    "address": "17, 4th Main Road, Chamrajpet",
+    "lat": 12.9577515,
+    "lng": 77.5689513,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "B.W. Lions Superspeciality Eye Hospital",
+    "address": "05, Lions Eye Hospital Road, Off J.C Road",
+    "lat": 12.9590943,
+    "lng": 77.5828497,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cadabams Hospitals",
+    "address": "280, 15th Cross RD, 5th Phase, J.P. Nagar",
+    "lat": 12.9060531,
+    "lng": 77.5869849,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Chiguru Multispeciality Hospital",
+    "address": "153, Doddaballapura Main Road, Rajanukunte",
+    "lat": 13.1699079,
+    "lng": 77.5646155,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Chinmaya Mission Hospital",
+    "address": "1/1,Cmch Road,Indiranagar, Opp To Krishna Temple",
+    "lat": 12.9783692,
+    "lng": 77.6408356,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Chord Road Hospital Pvt Ltd.",
+    "address": "No. 100, LIC Colony, West Of Chord Road, Basaveshwaranagar",
+    "lat": 12.9911834,
+    "lng": 77.5509339,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Church of South India Hospital",
+    "address": "No.2, Near Contonment Railway Station, Kazrath Kambal Posh Road",
+    "lat": 12.9938906,
+    "lng": 77.598306,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital",
+    "address": "1533, 9th Main, 3rd Block, Jayanagar",
+    "lat": 12.93395,
+    "lng": 77.58417,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital",
+    "address": "Second Floor, Nagarjuna Sai Signet, ITPL Main Road, Kiadb Export Promotion Industrial Area, White Fi",
+    "lat": 12.9877767,
+    "lng": 77.7322206,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital",
+    "address": "Khata No. 2667/1/250/1, Sahakarnagar Ward No.7, Kodigehalli Main Road",
+    "lat": 13.0576119,
+    "lng": 77.5930221,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital",
+    "address": "No.3, Opp. Puma Showroom, Doddathoguru Village, Electronic City Phase 1, Neeldari Road",
+    "lat": 12.8416363,
+    "lng": 77.6445957,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital - Bellandur Village",
+    "address": "No. 1/79/4, Bellandur Village, Varthur Hobli, Bengaluru East Taluk",
+    "lat": 13.0100968,
+    "lng": 77.5022356,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital - Doddakallasandra",
+    "address": "No, 766 And 767, Narayana Nagar 1St Block, Doddakallasandra Village, Kanakapura Road",
+    "lat": 12.8836822,
+    "lng": 77.5496989,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital - Hobli",
+    "address": "636/1, Outer Ring Road, Horamavu Village, K.R.Puram, Hobli, HRBR Layout",
+    "lat": 12.9550636,
+    "lng": 77.7005772,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital (Unit of Kids Clinic India Pvt. Ltd.)",
+    "address": "115, Opp Total Mall, Kodihalli, Old Air Port Road",
+    "lat": 12.959187,
+    "lng": 77.6567589,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cloudnine Hospital (Unit of Kids Clinic India Pvt. Ltd.)",
+    "address": "47, 17Th Cross, 11Th Main, Malleshwaram",
+    "lat": 13.0076009,
+    "lng": 77.5606162,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Coft Hospital Llp Ganga Hospital",
+    "address": "8 Sampige Road",
+    "lat": 12.9939134,
+    "lng": 77.5711841,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Criya Hospital",
+    "address": "#1, Mathru Nilaya Complex ,Kothnoor Dinne Main Road, J P Nagar, 7Th Phase",
+    "lat": 12.8773741,
+    "lng": 77.5806001,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cura Hospital",
+    "address": "# 1, Bethel Street,Kamannahalli Main Road, Near Jalvayu Vihar, Bangalore",
+    "lat": 13.0215064,
+    "lng": 77.637456,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cura Hospitals",
+    "address": "18, Kanakapura Main Road, Doddakallasandra Industrial Area, Uttarahalli Hobli",
+    "lat": 12.888292,
+    "lng": 77.561261,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Curemaxx Hospitals",
+    "address": "#861, 4/158, Begur Main Road, Hongasandra",
+    "lat": 12.898643,
+    "lng": 77.6263154,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Cytecare Hospitals Pvt Ltd",
+    "address": "Venkatala, Near Bagalur Cross, Yelahanka",
+    "lat": 13.122002,
+    "lng": 77.610575,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Davita NephroLife India Pvt Ltd",
+    "address": "No.38/5, 38/5-1, Berlie Street, Hosur Road, Langford Town, Shanthinagar",
+    "lat": 12.9573917,
+    "lng": 77.6057104,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Devi Super Speciality Eye Hospital Pvt Ltd",
+    "address": "No. 434, 18th Main 80 Feet Road, Opp. Koramangala Bus Depot",
+    "lat": 12.9409461,
+    "lng": 77.624114,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "DG Hospital",
+    "address": "274/275, MK Puttalingaiah Road, Padmanabhanagar",
+    "lat": 12.9207059,
+    "lng": 77.5597756,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dhee Hospitals",
+    "address": "No 744/784 Boochs Layout, Narayana Nagar, Doddakalladandra, Kanakapura Main Raod",
+    "lat": 12.745448,
+    "lng": 77.4878716,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Divine Speciality Hospital",
+    "address": "No. 110, 6th Main, ITI Layout, Benson Town",
+    "lat": 13.0053876,
+    "lng": 77.6072534,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd",
+    "address": "No. 33, Coles Road, Frazer town, Bangalore",
+    "lat": 12.9964566,
+    "lng": 77.6127406,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd",
+    "address": "No.41, 80 Feet Road, Hal 3Rd Stage, Opposite Empire Restaurant",
+    "lat": 12.9702384,
+    "lng": 77.6477332,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd",
+    "address": "No. HIG 2557, Sector B, 3rd Stage, Yelahanka New Town,Bangalore",
+    "lat": 13.0960552,
+    "lng": 77.5777647,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd",
+    "address": "381, 1st Cross Narayanappa, Garden Main Road, Whitefield",
+    "lat": 12.9638816,
+    "lng": 77.749388,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd",
+    "address": "Pavana Dhama, Ground Floor, No. 30, 80 feet Main Road, R.K. Layout, Padmanabha Nagar, Bangalore",
+    "lat": 12.9168909,
+    "lng": 77.5593398,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital Ltd - Bangalore",
+    "address": "Salarpuria Zest Building,No.16, Landmark: Opp: Shoppers Stop,Bannergatta Road,",
+    "lat": 12.9125714,
+    "lng": 77.6004456,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Malathi Manipal Hospital",
+    "address": "No. 45/1, 45th Cross, 9th Block, Jayanagar",
+    "lat": 12.9177182,
+    "lng": 77.5775714,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Drs7 Maiya Multispeciality Hospital Llp",
+    "address": "No.34, 10Th Main Road, 1St Block, Jayanagar",
+    "lat": 12.9388781,
+    "lng": 77.5820568,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Solanki Eye Hospital",
+    "address": "191/1, Link Road,2nd Cross, Opp. Anjenaya Co-Operative Bank, Malleshwaram",
+    "lat": 12.9949016,
+    "lng": 77.573625,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr. Tulips Obesity & Diabetes Surgery Centre",
+    "address": "No 2, 15th Cross Road , KR Layout, JP Nagar 6th Phase",
+    "lat": 12.9059715,
+    "lng": 77.5946976,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Dr Zamindars Microsurgical Eye Centre",
+    "address": "No 1013, 1st Block, 3rd Cross, HRBR Layout, banaswadi 100ft Road",
+    "lat": 13.0209837,
+    "lng": 77.6432452,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "East Point Hospital",
+    "address": "Bidarahalli, Virgonagar",
+    "lat": 13.0357278,
+    "lng": 77.7353739,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "E City Hospitals",
+    "address": "Doddathogur, Electronic City",
+    "lat": 12.8493389,
+    "lng": 77.6505297,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ekana Hospitals",
+    "address": "#110, Bande, Begur Koppa Road, Begur",
+    "lat": 12.8737546,
+    "lng": 77.6256788,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Eskay Healthcare",
+    "address": "No. 274, 3rd Cross, Brindavan Layout, Shettihalli, Jalahalli west",
+    "lat": 13.0615268,
+    "lng": 77.5179916,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Excel Care Hospital",
+    "address": "# 3/2, 27th cross, Banashankari 2nd stage",
+    "lat": 12.9208504,
+    "lng": 77.5736365,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Fortis Hospitals Ltd",
+    "address": "14, Cunningham Road",
+    "lat": 12.9883289,
+    "lng": 77.5943834,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Fortis Hospitals Ltd",
+    "address": "23, 80 Feet Road, Gurukrupa Layout, Nagarbhavi 2nd Stage",
+    "lat": 12.9592525,
+    "lng": 77.5208823,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Fortis Hospitals Ltd",
+    "address": "154/9, Bannerghatta Road, Opp. IIMB",
+    "lat": 12.8946463,
+    "lng": 77.5989664,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Gleneagles BGS Hospital (A Unit Of Gleneagles Healthcare India Pvt. Ltd.)",
+    "address": "BGS Health & Education City, 67, Uttarahalli Road, Kengeri",
+    "lat": 12.9098174,
+    "lng": 77.4922016,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Greenview Medical Center",
+    "address": "20 & 21, 14th Main, HSR Layout, Opp. Agra Lake",
+    "lat": 12.91744,
+    "lng": 77.638374,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Gurushree Hitech Multi Speciality Hospital",
+    "address": "1558, Opp. Chandra Lay Out Bus Stop, Chandra Layout, Vijayanagar",
+    "lat": 12.960866,
+    "lng": 77.5296529,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "HCG (Healthcare Global Enterprises Ltd-Double Road)",
+    "address": "No. 44-45/2, 2nd Cross, Raja Rammohan Roy Extension (opp. Lalbagh Double Road)",
+    "lat": 13.037463,
+    "lng": 77.6161994,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "HCG (Healthcare Global Enterprises Ltd SR Nagar)",
+    "address": "HCG Towers, No. 8, P Kalinga Rao Road",
+    "lat": 12.9632435,
+    "lng": 77.5895467,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Healing Earth Multi Speciality Ayurveda Hospital",
+    "address": "149,5Th Hsr Layout",
+    "lat": 12.9121181,
+    "lng": 77.6445548,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Healthvista India Private Limited",
+    "address": "69/B, 1st Stage, 1st Cross, Domlur Layout, Opp. Domlur Post Office",
+    "lat": 12.960914,
+    "lng": 77.636,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Hope Hospital",
+    "address": "Sy. No.32/2, Site No.1,2 & 3,4, Old Madras Road, Battarahalli",
+    "lat": 13.0195794,
+    "lng": 77.7081807,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Hosmat Hospital",
+    "address": "45, Magrath Road",
+    "lat": 12.9693685,
+    "lng": 77.6129533,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Hosmat Hospital Pvt. Ltd.",
+    "address": "#1, B-43 Hennur Road, HBR Layout, Kalyannagar",
+    "lat": 13.0207015,
+    "lng": 77.6297608,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "I-Aim Healthcare Center",
+    "address": "74/2, Attur Post, Via Yelahanka",
+    "lat": 13.1154662,
+    "lng": 77.6069977,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Idrishti Eye Hospital",
+    "address": "69/1, 2nd Floor, AGR Towers, Sarjapura Main Road, Kaikondrahalli",
+    "lat": 12.9136789,
+    "lng": 77.6791081,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Idrishti Eye Hospital",
+    "address": "First Floor, NCM Complex, BB Road, Devanahalli",
+    "lat": 13.2496972,
+    "lng": 77.7153473,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "International Hospital Limited ( A Fortis Network Hospital )",
+    "address": "111, West Of Chord Road, Opp. Rajajinagara, 1St Block Junction",
+    "lat": 13.0020606,
+    "lng": 77.5491478,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jai Maruthi Hospital",
+    "address": "208/210, Hegganahalli Main Road",
+    "lat": 13.00378,
+    "lng": 77.5046677,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jayadev Memorial Rashtrotthana Hospital And Research Centre",
+    "address": "No.3990/3965/363/3900, Halagevaderahalli Village, Beml 5th Stage, R R Nagar",
+    "lat": 12.9122524,
+    "lng": 77.5136421,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jayanagar Orthopaedic Centre",
+    "address": "No. 24/1-1, 14th Main, Jayanagar",
+    "lat": 12.9292875,
+    "lng": 77.5877195,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jayashree Multispeciality Hospital",
+    "address": "No 25,26 & 27, 1St Cross, B Block, Vishwapriya Nagar, Begur Main Road",
+    "lat": 12.89692,
+    "lng": 77.613669,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jayashree Specility Hospital",
+    "address": "No.4, 4Th Cross, 4Thblock, Kumara Park West",
+    "lat": 12.9910744,
+    "lng": 77.5778011,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "JP Hospital",
+    "address": "BH Road, Nelamangala",
+    "lat": 13.0941841,
+    "lng": 77.4055175,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Jupiter Hospital & Institute of Vascular Surgery",
+    "address": "28, 7th Main, 9th Cross, Malleswaram",
+    "lat": 13.0008469,
+    "lng": 77.5659944,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kalppa Virusha Hospital",
+    "address": "RG Arcade, Sarjapura Main Road, Attibele, Anekal Taluk",
+    "lat": 12.7814997,
+    "lng": 77.7713799,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kangaroo Care",
+    "address": "#89, 17Th Cross, Magadi Road, Chord Road Layout, Govindarajunagar, Vijayanagar",
+    "lat": 12.9720174,
+    "lng": 77.5375696,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kanva Sri Sai Hospital",
+    "address": "227, Rajivgandhi Nagar, Behind, Police Quarters, Krishnananda Nagar, Nandini Layout",
+    "lat": 13.0183075,
+    "lng": 77.5390761,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Karthik Hospital",
+    "address": "No. 56, 8th Cross, Wilson Garden",
+    "lat": 12.951311,
+    "lng": 77.5953747,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Karthik Nethralaya Institute of Ophthalmology Pvt Ltd.",
+    "address": "89, 6th Cross, Ashoknagar",
+    "lat": 12.9928948,
+    "lng": 77.591259,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kauvery Hospital",
+    "address": "2371/3, Old HAL Airport Varthur Rd, Munnekolala, Marathahalli",
+    "lat": 12.9560887,
+    "lng": 77.6933171,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kempanna Hospital",
+    "address": "1, KHB Layout, Old Madras Road, NH-7, Hoskote",
+    "lat": 12.9970349,
+    "lng": 77.6694706,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kempanna Nursing Home",
+    "address": "KR Road, Hoskote, Bangalore Rural",
+    "lat": 13.0732949,
+    "lng": 77.7867619,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Keva Ayurveda Healthcare Private Limited",
+    "address": "#28, 35Th Main, 5Th Cross, Btm Layout 2nd Stage",
+    "lat": 12.917975,
+    "lng": 77.6200056,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Kinder Womens Hospital And Fertility Centre",
+    "address": "No: 40F Doddanekundi Industrial Area, Graphite India Main Road Hoodi, Village Kr Puram, Hoodi",
+    "lat": 12.9921444,
+    "lng": 77.7061834,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "K.K Hospital",
+    "address": "9 A-1/A-2, A Sector, Opp Mec School, Yelahanka New Town",
+    "lat": 13.093451,
+    "lng": 77.589325,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "KOC Hospital",
+    "address": "2094, Railway Parallel Road, Kengeri Satelite Town",
+    "lat": 12.9110793,
+    "lng": 77.4806092,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Koshys Hospital",
+    "address": "Tambuchetty Palya Main Road, Rama Murthy Nagar Extension",
+    "lat": 13.0186258,
+    "lng": 77.6724958,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Krishna Nethralaya",
+    "address": "No-10, 1St Floor, 1St A Main, Yelahanka Old Town",
+    "lat": 13.1053155,
+    "lng": 77.6042699,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Madhu Superspeciality Hospital And Research Institute",
+    "address": "54/1, Magadi Main Road, Agrahara, Dasarahalli",
+    "lat": 12.97815,
+    "lng": 77.543381,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Mahanth Hospital",
+    "address": "08, 1st Cross N.G.R Layout Roopena Agrhar Agrahara",
+    "lat": 12.9174933,
+    "lng": 77.6193811,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Mallige Medical Centre",
+    "address": "31/32, Crescent Road",
+    "lat": 54.5673371,
+    "lng": -1.2481095,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "MANASA HOSPITAL (N10185/AWSP/I)",
+    "address": "G.CHANDRANNA BUILDING,NEAR OLD BUS STAND,DEVANAHALLI TOWN",
+    "lat": 13.2473445,
+    "lng": 77.7122488,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospital",
+    "address": "No.98, Rusthom Bhag, Airport Road, HAL Airport Road",
+    "lat": 12.9547331,
+    "lng": 77.6837614,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospital (Bengaluru) Private Limited",
+    "address": "# 71/1, Millers Road",
+    "lat": 12.9883616,
+    "lng": 77.5919552,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospital - Hebbal",
+    "address": "Kirloskar Business Park, Bellary Road, Hebbal",
+    "lat": 13.0514142,
+    "lng": 77.5954139,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospitals Pvt Ltd - Sarjapur Road",
+    "address": "Survey No.46/2, Ward No.150, Ambalipura, Sarjapur Road",
+    "lat": 12.9198413,
+    "lng": 77.6654265,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospitals Pvt Ltd - Yeshwanthpur",
+    "address": "Brigade Gateway, 26/1, 80 Feet, Dr Rajkumar Road Malleshwaram (W)",
+    "lat": 13.010196,
+    "lng": 77.5566806,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Hospitals Varthur",
+    "address": "No 10P & 12P, Whitefield Main Rd, Varthur Kodi, Palm Meadows, Ramagondanahalli, Whitefield",
+    "lat": 12.9604487,
+    "lng": 77.7468262,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manipal Northside Hospital",
+    "address": "No.71, 11th Main, Malleswaram, Opp. Malleswaram Railway Station",
+    "lat": 13.008598,
+    "lng": 77.562143,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Manjunatha Nethralaya Super Speciality Eye Hospital",
+    "address": "No. 44, Ammaji Complex, 1st Floor, Hesarghatta Main Rd, Bhuvaneshwari Nagar, T. Dasarahalli",
+    "lat": 13.0943011,
+    "lng": 77.4880275,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Marvel Multispeciality Hospital",
+    "address": "No. 153, 1st Cross, Near Jakkasandra Bus Stop, Koramangala 1St Block",
+    "lat": 12.9254809,
+    "lng": 77.6359102,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Mazumdar Shaw Medical Centre",
+    "address": "258/A, Bommasandra Industrial Area, Anekal Taluk",
+    "lat": 12.8159214,
+    "lng": 77.6793813,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medax Hospitals",
+    "address": "No 33&34, Star Avenue, Sultanpalya Main Road, Rt Nagar Post",
+    "lat": 13.025734,
+    "lng": 77.6037654,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medax Hospitals",
+    "address": "no-33/1, 35/1, Kalena Agrahara, bannerghatta Main Road",
+    "lat": 12.8665783,
+    "lng": 77.5919442,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medcare Hospital",
+    "address": "No.12, S S Temple Street, V.V. Puram,",
+    "lat": 12.951556,
+    "lng": 77.5743415,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medicover Hospitals",
+    "address": "Khata No. 351, Hoodi Village, ITPL Main Road, Whitefield Road, Hobli",
+    "lat": 12.9933262,
+    "lng": 77.7175766,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medihope Hospitals & Research Center Pvt Ltd",
+    "address": "114/1, Malleshpalya Main Road, New Thippasandra Post",
+    "lat": 12.9742627,
+    "lng": 77.6722121,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Mediscope Hospital Pvt Ltd.",
+    "address": "11, Pillanna Garden, 3rd Stage",
+    "lat": 13.0085178,
+    "lng": 77.6201702,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Medstar Speciality Hospital",
+    "address": "No-641/17/1/3, Kodigehalli Main Road, Sahakarnagar",
+    "lat": 13.0580706,
+    "lng": 77.5861955,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Meridian Medical Centre",
+    "address": "No. 14, Standage Road, Opp. Mosque Road Fraser Town",
+    "lat": 12.9993958,
+    "lng": 77.6162168,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Milann The Fertility Specialists",
+    "address": "#1109, 24th Main Road, TMC Layout, 1st Phase, JP Nagar",
+    "lat": 12.9160292,
+    "lng": 77.5856319,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Mithra Multispeciality hospital",
+    "address": "No. 6, SR Layout, Kyalasanahalli Village, Jigani Town, Bangalore Rural",
+    "lat": 13.013374,
+    "lng": 77.6758223,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospital",
+    "address": "914, 5th A Cross Road, HRBR Layout 1st Block, Kalyan Nagar, Next to Ovum",
+    "lat": 13.0203039,
+    "lng": 77.6513538,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospital",
+    "address": "8312/164, Survey 164, Neeladri Rd, Karuna Nagar, Electronics City Phase 1, Electronic City",
+    "lat": 12.8406438,
+    "lng": 77.6508685,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospital Kothanur (A Unit of Reha Health care)",
+    "address": "K Narayanapur, Kothanur Village, K.R. Puram, Hobli",
+    "lat": 13.0667068,
+    "lng": 77.6387607,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospitals",
+    "address": "324, Chinmaya Mission Hospital Rd, First Stage, Hoysala Nagar",
+    "lat": 12.9784529,
+    "lng": 77.6376647,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospitals",
+    "address": "4, 30th Main Rd, Banagirinagara, Banashankari 3rd",
+    "lat": 12.9277666,
+    "lng": 77.5617567,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospitals",
+    "address": "2266/17 & 18, Service Road, G Block, Sahakara Nagar-",
+    "lat": 13.0624632,
+    "lng": 77.5931659,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Motherhood Hospitals-Sarjapur",
+    "address": "514/ 1-2-3, Kaikondara Village, opp. More mall, Sarjapur",
+    "lat": 12.8575579,
+    "lng": 77.7864057,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "MS Ramaiah Memorial Hospital",
+    "address": "New BEL Road MS Ramaiah Nagar, MSRIT Post",
+    "lat": 13.0322009,
+    "lng": 77.5688007,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "MTB Orthopaedic & Trauma Hospital",
+    "address": "Whitefield Main Road, Mahadevapura",
+    "lat": 12.9745163,
+    "lng": 77.750556,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nandana Health Care Services Pvt Ltd",
+    "address": "320/C, 321/A, 1St Stage,2Nd Phase, West Of Chord Road",
+    "lat": 12.9844939,
+    "lng": 77.5490419,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nano Hospitals",
+    "address": "#47,12/1, Near Bharath Petrol Bunk, Uttharahalli Main Road, Uttharahalli",
+    "lat": 12.9067513,
+    "lng": 77.5450366,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Hrudayalaya",
+    "address": "No. 258/A, Bommasandra Industrial Area, Anekal Taluk",
+    "lat": 12.7907047,
+    "lng": 77.6422738,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Multispeciality Hospital - HSR Layout",
+    "address": "Basant Patil Building, Site No.1, 18th Main, Opp. HSR Club, HSR Layout",
+    "lat": 12.9083166,
+    "lng": 77.6432876,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Nethralaya - Banerghatta Road",
+    "address": "N0.63, Next to Royal Meenakshi Mall, Banerghatta Road, Hulimavu",
+    "lat": 12.8757,
+    "lng": 77.595766,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Nethralaya - Indira Nagar",
+    "address": "No.1/1, 1st Main Road, Binnamangala Layout, Defence Colony, HAL 2nd Stage, 100 Feed Road, Indira Nag",
+    "lat": 12.9809038,
+    "lng": 77.6398129,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Nethralaya - Rajaji Nagar",
+    "address": "121/C, Chord Road, Rajajinagar",
+    "lat": 13.0112353,
+    "lng": 77.5520901,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Narayana Netralaya - Bommasandra",
+    "address": "258/A, Bommasandra, Hosur Road",
+    "lat": 12.8154678,
+    "lng": 77.6918023,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Natus Hospital",
+    "address": "79/118, Beside Nayandahalli Metro Station, Mysore Road",
+    "lat": 12.9429136,
+    "lng": 77.5258582,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Natus Hospital Women And Children",
+    "address": "20/13, Sarjapur-Marathahalli Road, Carmelaram, Janatha Colony, Doddakannahalli",
+    "lat": 12.9055383,
+    "lng": 77.7010518,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Navachethana Hospital And Research Centre",
+    "address": "17/A2, A-Sector, Doddaballapura Main Road",
+    "lat": 13.1990421,
+    "lng": 77.5619388,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Navashakthi Nethralaya Pvt. Ltd.",
+    "address": "No 1803, Outer Ring Road, Hbr Layout, 5th Block,Near Nagaveera Fly Over",
+    "lat": 13.0359047,
+    "lng": 77.6282241,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "NDR Hospital",
+    "address": "4 B Sector, Opp. Yelahanka, New Town Bus Stand, Near Mother Dairy Circle, Yelhanka",
+    "lat": 13.098896,
+    "lng": 77.5755182,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Neha Prakash Hospital",
+    "address": "No-8, 6Th Main, 5Th Phase, Yelahanka New Town, Near Shiva Mandir",
+    "lat": 13.1077238,
+    "lng": 77.5717359,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nelivigi Eye Hospital And Surgical Centre",
+    "address": "450 435 10, Opp Bank Of Baroda, Behind Kanti Sweets,Opp Bangalore Central Mall, Bellandur Circle",
+    "lat": 12.9733808,
+    "lng": 77.6112778,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nephroplus Dialysis Center - Basaveshwara Nagar",
+    "address": "1St Floor, Pranav Bearing No.331, Above Puma Show Room, Near 8Th Main Bus Stop, 3Rd Stage, 4Th Block",
+    "lat": 12.9935833,
+    "lng": 77.5342741,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nephroplus Dialysis Center - Kasturi Nagar",
+    "address": "At Chaya Super Speciality Hospital,, 5Th Main, B Channasandra Main Road",
+    "lat": 13.0103699,
+    "lng": 77.6582587,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nephroplus Dialysis Center - Yelahanka Old Town",
+    "address": "At Dr. Sanjay S. Centre For Kidney And Diabetes, 357/B, Bangalore- Bellary Road, Santhe Circle,",
+    "lat": 13.0995462,
+    "lng": 77.5982155,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nethradhama Hospital",
+    "address": "No.30, 19th cross, Rajajinagar 2nd block",
+    "lat": 13.0086379,
+    "lng": 77.549402,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nethradhama Hospitals Pvt Ltd - Jaya Nagar",
+    "address": "256/14, Kanakapura Main Road, 7th Block, Jayanagar",
+    "lat": 12.925255,
+    "lng": 77.577359,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nethradhama Super Speciality Eye Hospital - Indira Nagar",
+    "address": "No.29, 80 feet road, HAL 3rd stage, Indiranagar",
+    "lat": 12.9719366,
+    "lng": 77.6473884,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nethradham Superspeciality Eye Hospital (N4194/AWSP/I)",
+    "address": "256/14, Kanakapura Main Road, 7th Block, Jayanagar, Bangalore",
+    "lat": 12.925255,
+    "lng": 77.577359,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "New Aswad Hospital",
+    "address": "No.49/20, Aswad Arcade, Hosur Main Road, 3Rd Cross, Bommanahalli",
+    "lat": 12.9240249,
+    "lng": 77.6186737,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "New Manasa Hospital",
+    "address": "11th Ward Marlubagilu Main Road, Devanahalli Town",
+    "lat": 13.2473445,
+    "lng": 77.7122488,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "New Varalakshmi Hospital",
+    "address": "No 2 Mahakavi Kuvempu Road, 2nd Stage, Rajaijnagar",
+    "lat": 12.9987499,
+    "lng": 77.5552371,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nikhil Nethralaya",
+    "address": "#44, 1St Floor, Hesaraghatta Main Road, Mallasandra",
+    "lat": 13.0611277,
+    "lng": 77.5068152,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "North Bangalore Hospital",
+    "address": "No. 125/1, 125/2, 4th G Street, Chelekere Village, Outer Ring Road, Kalyananagara",
+    "lat": 13.026542,
+    "lng": 77.638144,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "NU Hospitals Pvt Ltd",
+    "address": "4/1, West of Chord Road, Next to ISKCON, Rajajinagar",
+    "lat": 13.0119345,
+    "lng": 77.5528514,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "NU Hospitals Pvt Ltd",
+    "address": "C.A. 6, 15th Main, Padbanabhnagar, Opp. Maiyas Restaurant",
+    "lat": 12.9155691,
+    "lng": 77.5567733,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Nurture (A Unit Of Ambuja Hospitals Pvt Ltd)",
+    "address": "No.80 (Old No.36), 20Th Main Road, 2Nd Block, Rajajinagar",
+    "lat": 12.994997,
+    "lng": 77.5510621,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Omega Multispeciality Hospital[A Unit Of Narcc Multispeciality Hospital Llp]",
+    "address": "1236, Ward No. 4, B Sector, HIG 1&2 Phase, Yelahanka New Town",
+    "lat": 23.2481546,
+    "lng": 77.4694678,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ovum Woman and Child Speciality Hospital",
+    "address": "3, HIG Extension, New KHB Colony, Old Madras Road, Hoskote Town",
+    "lat": 13.0679674,
+    "lng": 77.7792723,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ovum Woman and Child Speciality Hospital",
+    "address": "216A, Panchajanya, 100ft Outer Ring Road, 2nd Block, 3rd Phase, Banashankari 3rd Stage",
+    "lat": 12.9062808,
+    "lng": 77.5950439,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ovum Woman & Child Speciality Hospital",
+    "address": "916, 5Th A Cross Road, Hrbr Layout 1St Block, Hrbr Layout, Kalyan Nagar",
+    "lat": 13.0201356,
+    "lng": 77.6517217,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Pathway Healthcare Private Limited",
+    "address": "1280, Uttarahalli Main Rd, Channasandra, RR Nagar",
+    "lat": 12.9033201,
+    "lng": 77.5239484,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Pavan Hospital",
+    "address": "#110, Jj Towers, 3Rd Main Road, Gandhi Nagar, Near Corporation Bank Yelahanka Old Town",
+    "lat": 13.1008144,
+    "lng": 77.5956108,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "PD Hinduja Sindhi Hospital",
+    "address": "12th A Cross, Sindhi Hospital Road, Sampangiramnagar",
+    "lat": 12.99368,
+    "lng": 77.5746756,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "People Tree Hospitals",
+    "address": "2, Tumkur Road, Next Metro Station, Goraguntepalya, Yeshwanthapur",
+    "lat": 13.028795,
+    "lng": 77.5394651,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "P. M. Santosha Hospital",
+    "address": "Ward No 198, Hemmigepura, Kengeri, Near Mahaveer Lakes Apartment, Sunkalpalya",
+    "lat": 12.9084282,
+    "lng": 77.4910435,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Prabha Eye Clinic & Research Centre",
+    "address": "504, 40th Cross, 8th Block, Jayanagara",
+    "lat": 12.919631,
+    "lng": 77.5758201,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Pradnya Nethralaya",
+    "address": "No. 4, 6th Cross, Ganesha Block, Dinnur Main Road, RT Nagar",
+    "lat": 13.0230278,
+    "lng": 77.6009848,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Prakriya Hospitals",
+    "address": "Survey No 41, Rajareddy Layout,8Th Mile Tamkur Road",
+    "lat": 13.0468243,
+    "lng": 77.5035192,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Prasad Eye Hospital",
+    "address": "11, Marigowda Road, Krishna Nagar Industrial Layout, Dharmaram College Post, Near Christ College",
+    "lat": 12.934735,
+    "lng": 77.6053246,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Prashanth Hospital",
+    "address": "No 90/D, Bommanahalli Circle, Hosur Main Road",
+    "lat": 12.9040086,
+    "lng": 77.6256954,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Prolife Multispeciality Hospital",
+    "address": "248/249/289/101, International Airport Road, Byatarayanapura, Opp. Kodandaramaswamy Temple, B.B Road",
+    "lat": 13.0597892,
+    "lng": 77.5933367,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Promed Hospital",
+    "address": "No 3781, 13Th Cross, Banasankari 2Nd Stage, Opp. To Old Indira Nursing Home Bus Stop",
+    "lat": 12.9293968,
+    "lng": 77.5639762,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Punya Hospitals India Pvt Ltd",
+    "address": "52/10, 80 Feet Ring Rd, A D Halli, 2nd Stage, KHB Colony, Basaveshwar Nagar",
+    "lat": 12.9862394,
+    "lng": 77.5374855,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Rainbow Childrens Medicare Pvt. Ltd",
+    "address": "Survey No.8/5, Marathahalli-KR Puram, Outer Ring Rd, Doddanekkundi",
+    "lat": 12.9761968,
+    "lng": 77.6966912,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Rainbow Childrens Medicare Pvt Ltd",
+    "address": "International Airport Road, Survey No. 17/4, BIAL Road, Byatarayanapura,",
+    "lat": 13.0597892,
+    "lng": 77.5933367,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Rainbow Childrens Medicare Pvt. Ltd",
+    "address": "Road: No 178/1 & 178/2, Opposite Janardhan Towers, Bilekahalli, Bannerghatta Road",
+    "lat": 12.9092478,
+    "lng": 77.6003899,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ramaiah Indic Specialty Ayurveda Restoration Hospital",
+    "address": "M S R Nagar, Msrit Post, Mathikere",
+    "lat": 13.0307823,
+    "lng": 77.5649893,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ramaiah Leena Hospital",
+    "address": "S. Narashimaiah Layout, Budigere Cross, Devanahalli",
+    "lat": 13.2351938,
+    "lng": 77.71474,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ramakrishna Hospital (A Unit Of Ramakrishna Hospital Pvt. Ltd.)",
+    "address": "No 24 & 26, 15 Cross, 3Rd Block Jayanagar, Near South End Circle",
+    "lat": 12.936326,
+    "lng": 77.5832996,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ramesh Piles Hospital",
+    "address": "1st Main Road, 7th Cross, Ganganagar",
+    "lat": 29.9093759,
+    "lng": 73.8799805,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Rangadore Memorial Hospital",
+    "address": "1st Cross, Shankarapuram, Basavanagudi",
+    "lat": 12.9531756,
+    "lng": 77.5704093,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Rangalakshmi Netralya-Dr G Venkatasubramaniam",
+    "address": "2053/2054, 13Th B Main, 3Rd Phase, Mother Dairy Cross Bus Stop, Yelahanka New Town",
+    "lat": 13.0989682,
+    "lng": 77.5765455,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Ravi Kirloskar Memorial Hospital",
+    "address": "No. 19, 2nd Main, 1st Phase, Peenya Industrial Area",
+    "lat": 13.043107,
+    "lng": 77.5077034,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "R K Hospital",
+    "address": "31, Kammanahalli Main Road, St.Thomas Town Peace Layout",
+    "lat": 13.0164506,
+    "lng": 77.6361082,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "RR Hospital & Trauma Centre",
+    "address": "11/2, 8th Cross Gangadar Nagar, 100 Feet Road, JP Nagar",
+    "lat": 12.9122463,
+    "lng": 77.57574,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "RXDX Samanvay Hospital",
+    "address": "29, 11Th Main Road, Near Cluny Convent, Malleshwaram",
+    "lat": 12.9922497,
+    "lng": 77.5914181,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sachetana Eye Clinic",
+    "address": "32, 9Th Cross, 1St Main, Prashanthnagar",
+    "lat": 12.9229503,
+    "lng": 77.5184367,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sacred Oak Hospital",
+    "address": "Opp Dmat, Hosur Maid Road, Electronic City Phase 2",
+    "lat": 12.8429238,
+    "lng": 77.6740932,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sagar Chandramma Hospitals",
+    "address": "No.1, Vani Vilas Road, V.V Puram",
+    "lat": 12.9481383,
+    "lng": 77.5771953,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sagar Hospitals",
+    "address": "44/54,30Th Cross, Tilaknagar, Jayanagar",
+    "lat": 12.9280793,
+    "lng": 77.5990578,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sagar Hospitals",
+    "address": "Shavige Maleshwara Hills, Kumaraswamy Layout, Banashankari",
+    "lat": 12.9089458,
+    "lng": 77.5672257,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sahana Hospital",
+    "address": "No.143, 2nd Main, 7th Cross",
+    "lat": 12.9551578,
+    "lng": 77.6219878,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sai Sparsh Hospitals",
+    "address": "408, Hosur Road, Garvebhavipalya, Begur Hobli",
+    "lat": 12.8933755,
+    "lng": 77.6368689,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sakra World Hospital",
+    "address": "No 52/2 &52/3, Deverabeesanahalli, Varthur, Opp. Intel, Outer Ring Road, Marathahalli, Hobli",
+    "lat": 12.9588209,
+    "lng": 77.7012008,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Samprathi Eye Hospital And Squint Centre",
+    "address": "111, Railway Parallel Road, Kumara Park (W)",
+    "lat": 12.9938422,
+    "lng": 77.5811272,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sankara Eye Hospital",
+    "address": "No. 41, Varthur Road, Kundalahalli Gate, Next to Karunashraya",
+    "lat": 12.9550619,
+    "lng": 77.7231512,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sapthagiri Hospital",
+    "address": "No.15, Chikkasandra, Hesarghatta Main Road",
+    "lat": 13.0725585,
+    "lng": 77.5039605,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Saradev Eye Hospital",
+    "address": "35, Ashoka Pillar Road, Jayanagar 1St Block",
+    "lat": 12.9424009,
+    "lng": 77.5854533,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sathya Sai Orthopaedic & Multispeciality Hospital",
+    "address": "20/2, Banashankari Layout, Old RTO Office Road, Old Madras Road",
+    "lat": 13.0219698,
+    "lng": 77.7129142,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Seventh Day Adventist Medical Centre",
+    "address": "No. 8, Spencer Road, Frazer Town Near Coles Park",
+    "lat": 12.9954959,
+    "lng": 77.6113913,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "SG Hospital",
+    "address": "30, Ittamadu Main Road, Anjaneyanagar, Near Janatha Bazaar, BSK 3rd Stage",
+    "lat": 12.9272617,
+    "lng": 77.5457366,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shekar Superspecilaity Hospital",
+    "address": "704, 3rd Block, Bel Layout, Vidyaranapura",
+    "lat": 13.0720513,
+    "lng": 77.5563018,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shirdi Sai Hospital Pvt Ltd",
+    "address": "#519, 2nd Main, Nethravathi Street, New Bel Road, Devasandra",
+    "lat": 13.0244262,
+    "lng": 77.5641691,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shiva Priya Maternity Home",
+    "address": "1st Main Road, T G Extnhoskote, Rural",
+    "lat": 13.072903,
+    "lng": 77.7830444,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shree Maruti Hospital",
+    "address": "No.60, Link Road",
+    "lat": 19.1766232,
+    "lng": 72.8369578,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shreya Hospital",
+    "address": "No.73, 6th Cross, 3Rd Main, Kenegri Satellite Town",
+    "lat": 12.9574326,
+    "lng": 77.5231626,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Shreyas Maternity Home",
+    "address": "356,2nd Main Road, Swamy Vivekanada Nagar, Sulibele Road, Hoskote",
+    "lat": 13.0711388,
+    "lng": 77.7826847,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "SLV Prasad Hospital",
+    "address": "No 4/38, Industrial Area, 4Th Phase, Yelanka New Town",
+    "lat": 13.1079491,
+    "lng": 77.5769033,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Smiles Institute Of Gastroenterology LLP",
+    "address": "No.423/2, 60 Feet Road , 1St Stage, 1St Main, 1St Phase, Near Sbi Bank",
+    "lat": 13.0221507,
+    "lng": 77.5603428,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sparsh Hospital",
+    "address": "Katha No. 1474/138, Yelahanka",
+    "lat": 13.1154662,
+    "lng": 77.6069977,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sparsh Hospital",
+    "address": "Bangalore- Mysore Road, 8 Ideal Homes HBCS Layout, Javarandoddi, RR Nagar",
+    "lat": 12.9383734,
+    "lng": 77.52181,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sparsh Hospital for Advanced Surgeries",
+    "address": "146, Infantry Road, Opp. Police Commisioners Office",
+    "lat": 12.988318,
+    "lng": 77.594415,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sparsh Super Speciality Hospital",
+    "address": "4/1, Tumkur Road, Yeshwanthpur",
+    "lat": 13.0278422,
+    "lng": 77.5430435,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Specialist Health System Private Limited",
+    "address": "216, 7Th Main, 1st Block, HRBR Layout, Kalyanagar",
+    "lat": 13.01705,
+    "lng": 77.6432471,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sree Lakshmi Hospital",
+    "address": "21st Cross, Kaggadasapura Main Road, C.V.Raman Nagar Post,",
+    "lat": 12.9824382,
+    "lng": 77.680342,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sree Lakshmi Multi Speciality Hospital",
+    "address": "No. 94/2, Nr. Hongasandra Bus Stop, Begur Road",
+    "lat": 12.896163,
+    "lng": 77.6258318,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sreenivasa Nursing Home",
+    "address": "Bannerghatta Road",
+    "lat": 12.7943268,
+    "lng": 77.6209092,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Chowdeshwari Nethralaya And Diabetes Care",
+    "address": "Old Madras Road, Opp. Hero Honda Showroom",
+    "lat": 13.1168721,
+    "lng": 78.1441487,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Jayadeva Institute of Cardiology",
+    "address": "Bannergatta Road Jayanagara 9th Block-East",
+    "lat": 12.7943268,
+    "lng": 77.6209092,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Kauvery Medical Care India Limited",
+    "address": "92/1, A & B, Konappana Agrahara, Electronic City",
+    "lat": 12.8496791,
+    "lng": 77.655459,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Krishna Nethralaya Hospital",
+    "address": "No. 49, 10th main Road, 32nd C Cross, 4th Block, Jayanaggar",
+    "lat": 12.9220146,
+    "lng": 77.5848445,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Lakshmi Super Speciality Hospital",
+    "address": "3rd Main Road, Old Extension Kr Puram",
+    "lat": 13.019356,
+    "lng": 77.7185824,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Narayana Super Spaciality Eye Care Hospital",
+    "address": "Old Madras Road",
+    "lat": 13.1168721,
+    "lng": 78.1441487,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Srinivasa Speciality Hospital",
+    "address": "TG Badavane, 2nd Main Rd, Kammavari Pete",
+    "lat": 13.0742687,
+    "lng": 77.7845366,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Sai Eye Hospital",
+    "address": "311, 4th B Cross, Ramamurthy NagarMain Road, Opp Petrol Bunk",
+    "lat": 13.0244505,
+    "lng": 77.6351372,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Sai Ram Hospital",
+    "address": "No. 33, Bannerghatta Road",
+    "lat": 12.9477858,
+    "lng": 77.6023801,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Sai Rangaa Hospital",
+    "address": "101, Sulibele Main Road, Hoskote",
+    "lat": 13.0784851,
+    "lng": 77.7913302,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Shankara Cancer Hospital And Research Center",
+    "address": "Shankara Math Premises, 1St Cross, Shankarapuram, Basavangudi",
+    "lat": 12.9551957,
+    "lng": 77.5706349,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Sri College of Ayurvedic Science and Research Hospital",
+    "address": "21Km, O B Chudhahalli, Udayapura Post, Kanakapura Main Road",
+    "lat": 12.8216534,
+    "lng": 77.5106817,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Sri Hospital",
+    "address": "21Km, O B Chudhahalli, Udayapura Post, Kanakapura Main Road",
+    "lat": 12.8216534,
+    "lng": 77.5106817,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sri Venkateshwara Eye Hospital",
+    "address": "#2, 6Th Main, Near Nh4 Tension Wire, Ramaiah Enclave, Nagasandra Post",
+    "lat": 13.0468364,
+    "lng": 77.5039731,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Srushti Hospital",
+    "address": "Kodichikkanahalli Main Road, Near BWSSB Kaveri Water Tank",
+    "lat": 12.8979243,
+    "lng": 77.614244,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Srv Agadi Hospital Llp",
+    "address": "No 35, H Siddaiah Road, Wilson Garden",
+    "lat": 12.9492723,
+    "lng": 77.5977213,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Star Medcity Speciality Hospital",
+    "address": "#20, 80 Feet Double Road, Near Bharath Petrol Pump, Dr. Shivram Karanth Nagar-Post",
+    "lat": 13.0730487,
+    "lng": 77.6028181,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "St. Johns Medical College Hospital",
+    "address": "John Nagar, Sarjapur Road, Koramangala",
+    "lat": 12.9035101,
+    "lng": 77.7039425,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "St.John S Medical College Hospital - Brigade Meadows",
+    "address": "No.136, Brigade Meadows",
+    "lat": 12.8137043,
+    "lng": 77.5078519,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "St Marthas Hospital",
+    "address": "Nrupathunga Road",
+    "lat": 12.971812,
+    "lng": 77.5868913,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "St Philomenas Hospital",
+    "address": "No. 4, Campbell Road, Viveknagar (Post)",
+    "lat": 12.9952232,
+    "lng": 77.6248597,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sumathi Nursing & Maternity Home",
+    "address": "2nd cross, Mathikere Layout",
+    "lat": 13.037463,
+    "lng": 77.6161994,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sundar Hospital",
+    "address": "No 1 & 2, Hennur Road Cross, Lingarajpuram",
+    "lat": 13.0295909,
+    "lng": 77.6497277,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sunetra Eye Hospital",
+    "address": "519/31 , 10th Main, 2nd Cross, BSK, 1st stage, 2nd Block",
+    "lat": 12.9403171,
+    "lng": 77.5497613,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sun Orthopaedic Hospital",
+    "address": "#24, 80Ft Main Road, Brindavan Nagar, Mathiere",
+    "lat": 13.0333597,
+    "lng": 77.5555533,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Sunray Multi Speciality Hospital",
+    "address": "No 926, Ms Complex, Chandapura Circle, Next To Karur Vysya Bank Limited, Anekal Taluk, Chandapura",
+    "lat": 12.8020966,
+    "lng": 77.7048947,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Suprabha Maternity & Medical Centre",
+    "address": "No. 170, 12th Cross, 1st Main, Mahalakshmi Lay Out",
+    "lat": 13.0078554,
+    "lng": 77.546956,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Supra Hospital",
+    "address": "2, Chandra Complex, Opp. RBI Layout, 7th Phase, J.P. Nagar",
+    "lat": 12.8895219,
+    "lng": 77.5798522,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Suresh Hospital & Maternity Home",
+    "address": "124, Hegganahalli Main Road, 1 St Stage, Sanjeevini Nagar",
+    "lat": 12.9992351,
+    "lng": 77.5033079,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Surgecare Super Speciality Hospital",
+    "address": "Signal, Site No 1&2, 5Th Cross, Ramamurthi Nagar Main Rd, Near Ramamurthy Nagar, Dayananda Layout",
+    "lat": 13.0116793,
+    "lng": 77.6791047,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Svastha Hospital",
+    "address": "#3, Narayanappa Garden, Main Road, Whitefield",
+    "lat": 12.9653875,
+    "lng": 77.7534449,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Swastik Hospitals",
+    "address": "No. 76/1, Dommasandra Circle, Sarjapura Main Road, Anekal Taluk",
+    "lat": 12.88268,
+    "lng": 77.7534427,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Tathagat Heart Care Centre",
+    "address": "No. 31/32, Crescent Road,",
+    "lat": 12.9852672,
+    "lng": 77.5802778,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Tirumalai Eye Clinic",
+    "address": "320/B, 9th Main, 5th Block, Jayanagar",
+    "lat": 12.9194778,
+    "lng": 77.583918,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Trinity Hospital & Heart Foundation",
+    "address": "Near RV Teachers College Circle, Basavanagudi",
+    "lat": 12.9434689,
+    "lng": 77.5794581,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Trust in Hospital (A Unit Of NMPC Health Care Pvt Ltd )",
+    "address": "M V Appa Complex, 12/1, Main Road, Asheervad Colony, Horamavu, Banaswadi",
+    "lat": 13.0227024,
+    "lng": 77.6566664,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Trustwell Hospitals Private Limted",
+    "address": "5, JC Rd, Vinobha Nagar, Sudhama Nagar",
+    "lat": 12.960594,
+    "lng": 77.5840607,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Udhbhava Hospital",
+    "address": "#114, 100 Feet Ring Road, Banashankari 3rd Stage",
+    "lat": 12.9098343,
+    "lng": 77.569426,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Unity Lifeline Hospital (India) Pvt. Ltd.",
+    "address": "No 193, 1St Cross, 2Nd Stage,2Nd Block, Nagarbhavi Layout",
+    "lat": 12.9662849,
+    "lng": 77.524887,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Usha Vikranth Diagnostic Centre & Hospital",
+    "address": "49, Double Road, BEML Layout, 5th Stage, Rajarajeshwari Nagar",
+    "lat": 12.9150047,
+    "lng": 77.5207578,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Banaswadi",
+    "address": "No 205-4c, 4th cross, 3rd block, HRBR Lay out, Next to Hennur Bus depot",
+    "lat": 13.0249198,
+    "lng": 77.6342819,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Bommanahalli",
+    "address": "Sri Murthy Complex, No. 43, Garvey Bhav Palya Hongasandra Village Begur, Hobli, Hosur Main Road",
+    "lat": 12.8760869,
+    "lng": 77.6474739,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - HSR Layout",
+    "address": "No.1127/A, 7th Sector, HSR layout, Near BDA Complex",
+    "lat": 12.9122031,
+    "lng": 77.6348786,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Jayanagar",
+    "address": "No. 28 & 29, 7th Main Diagonal Road, Jayanagar, 4th block",
+    "lat": 12.9485572,
+    "lng": 77.573952,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Maratha",
+    "address": "No. 25/5-D, Outer Ring Road Marathalli",
+    "lat": 12.9606547,
+    "lng": 77.701395,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital (N8441/AWSP/I)",
+    "address": "# 897/C, 6th Block, 80 Feet RoadKoramangala, Bangalore- 560034",
+    "lat": 12.9363933,
+    "lng": 77.6170561,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital (N8442/AWSP/I)",
+    "address": "# 46, 19th Main Road, 1st BlockRajaji Nagar, Bangalore - 560010",
+    "lat": 12.9971047,
+    "lng": 77.5510911,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital (N8457/AWSP/I)",
+    "address": "No.28&29, 7th Main Diagnal Road,Jaynagr 4th Blook, Bangalore-560 011",
+    "lat": 12.931587,
+    "lng": 77.592311,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital (N8458/AWSP/I)",
+    "address": "No.205-4C, 4th Cross 3rd Block, HRBR Layout Next to Hennur Bus depo",
+    "lat": 13.0249198,
+    "lng": 77.6342819,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Rajaji",
+    "address": "# 46, 19th Main Road, 1st Block, Rajaji Nagar",
+    "lat": 12.9971047,
+    "lng": 77.5510911,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Raja Rajeshwari",
+    "address": "483, 16th Cross, 8th Main, Rajarajeswari Nagar",
+    "lat": 13.0090286,
+    "lng": 77.5816315,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - RT Nagar",
+    "address": "No 533, 108 Bus Stop, Vijayalakshmi Arcade, Ganganagar, R T Nagar",
+    "lat": 13.020476,
+    "lng": 77.5945181,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasan Eye Care Hospital - Sarakki",
+    "address": "Plot No 2(A-2) A Type BBMP No 57-64-2, Shivana Arcade, 41st Main Road, Kanakpura Main Road, Sarakki",
+    "lat": 12.9088129,
+    "lng": 77.5738776,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vasavi Hospital",
+    "address": "15, 70Th Cross, 14Th Main, 1St Stage, Kumarswamy Layout",
+    "lat": 12.9030906,
+    "lng": 77.5605829,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vijayanagar Hospital",
+    "address": "No. 46, 17th Cross, Near Vijayanagar Metro Station, M C Road, Vijayanagar",
+    "lat": 12.9756183,
+    "lng": 77.5354055,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vijaya Nethralaya",
+    "address": "5, 20th Cross Malagala Under Pass, Ring Road, Nagarbhavi 2nd Stage",
+    "lat": 12.9744546,
+    "lng": 77.5131469,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vijayashree Hospitals",
+    "address": "No 187/2, Vinayaka Circle, Jigani, Anekal",
+    "lat": 12.7791043,
+    "lng": 77.6435979,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vinayaka Hospital",
+    "address": "No.110, 80 Feet Road, SBM Colony, BSK 1st Stage, Hanumanthanagar, Next to Seetha Circle",
+    "lat": 12.9366768,
+    "lng": 77.5594641,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vinayaka Nethralaya",
+    "address": "66/A, 7Th Main, N.S.Palya, Btm 2Nd Stage, Btm Layout",
+    "lat": 12.9110413,
+    "lng": 77.6065978,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vishwabharathi Hospital Pvt Ltd",
+    "address": "10/4 & 10/5, 3rd Main Road, Hanumanthnagar",
+    "lat": 12.9395702,
+    "lng": 77.5522951,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vividus Health Pvt Ltd",
+    "address": "No33, 357, HMT Main Rd, 2nd Phase, Gokula 1st Stage, Nanjappa Reddy Colony, Yeswanthpur",
+    "lat": 13.0294369,
+    "lng": 77.5608368,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "VS Specialist Medical Centre",
+    "address": "No. 196, 10th Cross, Wilson Gardens",
+    "lat": 13.0004897,
+    "lng": 77.6067119,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vydehi Institute of Medical Sciences & Research Centre",
+    "address": "82, EPIP Area, White Field",
+    "lat": 12.9779527,
+    "lng": 77.7301194,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Vydehi Superspeciality Hospital",
+    "address": "No.2, Vittal Mallya Road",
+    "lat": 12.9679749,
+    "lng": 77.595018,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Yashoda Nethralaya",
+    "address": "278, 1st Floor, Sai Pranams building, Kogilu cross, Maruthi nagar, Yelahanka",
+    "lat": 13.1040586,
+    "lng": 77.6009719,
+    "insurer": "ICICI Lombard"
+  },
+  {
+    "name": "Yogananda Multispeciality Hospital",
+    "address": "No.371, M.K.Puttalingiah Road, Padmanabha Nagar",
+    "lat": 12.9175663,
+    "lng": 77.5595709,
+    "insurer": "ICICI Lombard"
+  }
+]
