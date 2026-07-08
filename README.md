@@ -30,7 +30,10 @@ container startup, so judging doesn't depend on Google Sheets being reachable.
 - `frontend/` — React app (Vite), insurer picker + results list + Leaflet map.
 - `backend/` — Node/Express API, `controller -> service -> repository` for hospitals.
 - `db/` — SQLite database file lives here once the backend runs (auto-created + seeded).
-- `Dockerfile` — builds the frontend, then packages frontend + backend into one image.
+- `Dockerfile` — builds the frontend, then packages frontend + backend into one image
+  (for the hackathon's single-image submission).
+- `vercel.json` — Vercel "Services" config for deploying the frontend and backend
+  as one project (see below).
 
 ## API
 
@@ -69,3 +72,34 @@ docker run -p 9080:9080 -p 8090:8090 medidash
 ```
 
 Then open http://localhost:9080.
+
+## Deploying on Vercel
+
+This is a two-part app (a static Vite frontend and a stateful Node/Express
+backend), so it deploys using Vercel's [Services](https://vercel.com/docs/services)
+feature — configured in `vercel.json` at the repo root:
+
+- `frontend` service — builds `frontend/` with Vite, served as static files.
+- `backend` service — runs `backend/src/server.js` as a persistent Express
+  process (not a serverless function), so the SQLite database seeds once per
+  process start rather than on every request.
+- Top-level `rewrites` send `/api/*` to the `backend` service and everything
+  else to `frontend`, so both are reachable under one domain.
+
+To deploy:
+
+1. In the Vercel dashboard, make sure the project's **Build and Deployment**
+   framework setting is set to **Services** (required for the `services` key
+   in `vercel.json` to take effect).
+2. Import this repository and deploy — no other configuration should be
+   needed, since build/install commands and the Node 22 requirement (for
+   `node:sqlite`) are already declared per-service in `vercel.json` and
+   `backend/package.json`.
+3. The backend writes its SQLite file to `/tmp` automatically when
+   `process.env.VERCEL` is set (see `backend/src/db/index.js`), since it only
+   ever reseeds from the bundled `seed-hospitals.json` snapshot and never
+   needs to persist writes across restarts.
+
+This Vercel setup hasn't been exercised against a live deployment from this
+environment — if the `backend` service fails to boot, check the deployment
+logs first for `node:sqlite` runtime-availability errors (it needs Node 22+).

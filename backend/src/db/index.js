@@ -6,7 +6,10 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const SEED_PATH = join(__dirname, 'seed-hospitals.json');
 
-const DB_PATH = process.env.DB_PATH || '../db/medidash.db';
+// Vercel's deployment filesystem is read-only outside /tmp. Since this app
+// never writes user data (it only reseeds from the bundled JSON snapshot),
+// an ephemeral /tmp database that gets recreated on every cold start is fine.
+const DB_PATH = process.env.DB_PATH || (process.env.VERCEL ? '/tmp/medidash.db' : '../db/medidash.db');
 
 function ensureDir(path) {
   const dir = dirname(path);
